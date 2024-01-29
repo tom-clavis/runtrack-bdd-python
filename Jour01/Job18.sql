@@ -1,7 +1,3 @@
-SELECT * FROM etudiant
-
-ou
-
-SELECT * FROM etudiant
-WHERE nom = 'Spaghetti' AND prenom = 'Betty';
+DELETE FROM etudiant
+WHERE nom = 'Doe' AND prenom = 'John';
 
